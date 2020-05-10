@@ -1,0 +1,301 @@
+{
+  "main": {
+    "name":"TJ Bryant",
+    "occupation":"Software Engineer Team Lead",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"I'm a people first, lead by example kind of person. I've worked across multiple stacks.  I lean towards back end work but I can work full stack as well. I always put my team first.",
+    "contactmessage":"I'm open to freelance consulting gigs if you'd like to reach out.",
+    "email": "bryant.thomas@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip": "28213"
+    },
+    "website": "http://tjbryant.com",
+    "resumedownload":"/tj-bryant.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tjbryant/",
+        "className":"fa fa-linkedin",
+        "file": "images/social/linkedin.png"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tj-bryant",
+        "className":"fa fa-github",
+        "file": "images/social/github.png"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school": "University of North Carolina at Charlotte ",
+        "degree": "Masters in Information Technology",
+        "graduated": "December 2005",
+        "description": ""
+      },
+      {
+        "school": "University of North Carolina at Charlotte  ",
+        "degree": "Graduate Certificit in Information Security",
+        "graduated": "December 2005",
+        "description": ""
+      },
+      {
+        "school": "University of North Carolina at Charlotte    ",
+        "degree": "Graduate Certificate Management Information Systems",
+        "graduated": "December 2005",
+        "description": ""
+      },
+      {
+        "school": "University of North Carolina at Charlotte   ",
+        "degree": "BS in Computer Science",
+        "graduated": "December 2004",
+        "description": ""
+      }
+    ],
+    "work":[
+      {
+        "company": "Passport",
+        "title": "Software Engineer Team Lead",
+        "website": "https://www.passportinc.com/",
+        "years": "2019-04-29 - present",
+        "endDate": "",
+        "description": "Managing a team of developers working on iterative initiatives and resolving client issues.",
+        "highlights": [
+          "Managed a team of developers building the initial phase of the react/node based client portal for the enforcement product.",
+          "Contributing to the organization's engineering standards.",
+          "Drive team delivery.",
+          "Ensure team is in line with standards and practices of the rest of the organization."
+        ]
+      },
+      {
+        "company": "University of North Carolina at Charlotte",
+        "title": "Technology Architect",
+        "website": "https://uncc.edu",
+        "years": "2014-03-01 - 2019-04-26",
+        "description": "I worked for the College of Computing and Informatics. Using a mixture of Kanban and Scrum as needed per project.  Designed and implemented systems for the college, the university, other colleges, and external partners.",
+        "highlights": [
+          "Designed and implemented an event registration application using Laravel, jQuery, Bootstrap, and Magtek card swipers.",
+          "Designed and implemented a Faculty Activity Report application for Chairs to evaluate their Faculty.",
+          "Shibboleth integration with custom web applications and with various open source applications.",
+          "Designed and implemented a custom web application to manage the university's continuity of operation plans to be used university wide.",
+          "Integrated UNCC SSO Solution with Amazon Web Services hosted applications.",
+          "Designed and implemented and application to manage the review and admission process of graduate students for the College of Health an Human Services.",
+          "Designed and implemented a multi tech stack task runner using flask for rest services, rabbitmq, celery as the task worker, mongodb, and docker for containerizing tasks.",
+          "Responsible for running software vulnerability scans and remediating the issues found. From server hardening, application configurations, to code changes."
+        ]
+      },
+      {
+        "company": "Publicis Hawkeye",
+        "title": "Senior Interactive Developer",
+        "website": "https://www.publicisna.com/",
+        "years": "2013-11-01 - 2019-02-26",
+        "description": "Software engineering for client accounts.",
+        "highlights": []
+      },
+      {
+        "company": "Lowes Home Improvement",
+        "title": "Senior Systems Analyst",
+        "website": "https://lowes.com",
+        "years": "2012-02-01 - 2013-11-01",
+        "description": "Tech Lead for a team creating REST services in Commerce using Wink and OAGIS.",
+        "highlights": [
+          "Trained colleagues on principles of REST services and the implementation of REST services in IBM Commerce.",
+          "Completed POC for exposing Commerce functionality through REST services and trained junior developers on the subject.",
+          "Provide input to the architecture group in designing the future state SOA."
+        ]
+      },
+      {
+        "company": "United States Postal Service ",
+        "title": "IT Solutions Architect",
+        "website": "https://usps.gov",
+        "years": "2011-08-01 - 2012-02-01",
+        "description": "Contributed to system designs, engineering standards, and resolving urgent system issues.",
+        "highlights": [
+          "Investigated and provided recommendations for improving application stability and performance.",
+          "Created and documented development standards.",
+          "Designed web based applications using a service oriented architecture.",
+          "Vetted and sponsored new frameworks and technologies to be used at the USPS.",
+          "Used AppScan to identify security issues with custom developed applications. Provided recommendations to project teams for remediation."
+        ]
+      },
+      {
+        "company": "United States Postal Service",
+        "title": "Senior Developer",
+        "website": "https://usps.gov",
+        "years": "2006-01-01 - 2011-08-01",
+        "description": "Tech lead for an engineering team building Java web applications and web services",
+        "highlights": [
+          "Acted as lead developer and Scrum master on a mail tracking project which used Jersey for rest services, Stripes for MVC, and MyBatis for ORM",
+          "Lead developer on a team responsible for the international mail documentation system.",
+          "Developed JEE Web applications, web services, .Net tools, a Ruby on Rails application, batch processes, and command tools.",
+          "Wrote a wrapper for the Remedy API to simplify help desk ticket creation and querying and turned it into a Java web service.",
+          "Designed and developed a Java program which automated tasks and provided an integration mechanism between Remedy and Serena Dimensions.",
+          "Worked on a committee that defined the United States Postal Service’s standards for shell scripting."
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name": "Web Services",
+        "level": "85%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "Software Design",
+        "level": "85%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "Software Integration",
+        "level": "85%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "AWS",
+        "level": "50%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "Troubleshooting",
+        "level": "85%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "DevOps",
+        "level": "25%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "PHP",
+        "level": "85%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "Git",
+        "level": "50%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "Python",
+        "level": "25%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "Docker",
+        "level": "50%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "Relational Databases",
+        "level": "50%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "AWS Lambda",
+        "level": "50%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "AWS Dynamodb",
+        "level": "25%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "AWS API Gateway",
+        "level": "25%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "AWS Cloudformation",
+        "level": "25%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "AWS SNS",
+        "level": "25%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "AWS SQS",
+        "level": "25%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "AWS EC2",
+        "level": "25%",
+        "keywords": ["Cloud"]
+      },
+      {
+        "name": "Java",
+        "level": "50%",
+        "keywords": ["Software Engineer"]
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"TJ is a great leader and mentor who brings not only his vast technical knowledge to the table, but also great dedication and a fun personality. TJ does whatever it takes to make his team succeed, working in very close detail with his peers to provide a quality solution. He is just as quick to share his knowledge as he is to learn new technologies and techniques. His ability to make quick, fact-based assessments and willingness to voice his expertise make him an important part of any discussion. TJ's knowledge, skills, and leadership would make him a valuable member of any organization.",
+        "user":"Matthew DeTullio"
+      },
+      {
+        "text":"I began working with TJ when our team started creating a restful framework for the eCommerce platform. I thoroughly enjoyed working alongside TJ and learned a great deal. One of his greatest assets was sharing and teaching the knowledge on projects he worked on. With TJ's expertise in creating solutions, code execution, and working in a team environment, he is an asset to any company. Above all, TJ has a great personality and makes the work environment fun and enjoyable. Thank you TJ for all your hard work and good times.",
+        "user":"Jonathan Schneider"
+      },
+      {
+        "text": "TJ is a great technical mentor. His experience and knowledge with web services, development strategies, and positive coding practices in general proved invaluable while working on improvements to an enterprise application. His clear and concise communication of technical details to the business stakeholders helped us move forward and provide informed decisions on future goals. TJ would make an awesome addition to any company looking for a professional individual who will innovate, succeed, and provide a fun and creative environment to work in.",
+        "user": "Kevin Jamieson"
+      },
+      {
+        "text": "TJ has uncanny powers of insight. Combined with his unyielding ethics and unending compassion, he makes his coworkers proud to work with him. TJ can also program circles around anybody I know.",
+        "user": "Jonathan Spencer"
+      }
+    ]
+  }
+}
