@@ -32,7 +32,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Most recently I've been working in Node and PHP but here is a list of skills and interests that I've acquired over my career.",
     "education":[
       {
         "school": "University of North Carolina at Charlotte ",
@@ -239,7 +239,7 @@
       },
       {
         "name": "Java",
-        "level": "50%",
+        "level": "80%",
         "keywords": ["Software Engineer"]
       }
     ]
