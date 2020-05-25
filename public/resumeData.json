@@ -153,6 +153,26 @@
         "keywords": ["Software Engineer"]
       },
       {
+        "name": "Scrum Master",
+        "level": "85%",
+        "keywords": []
+      },
+      {
+        "name": "Team Leadership",
+        "level": "85%",
+        "keywords": []
+      },
+      {
+        "name": "Architectual Design",
+        "level": "75%",
+        "keywords": []
+      },
+      {
+        "name": "Servant Leadership",
+        "level": "75%",
+        "keywords": []
+      },
+      {
         "name": "Software Integration",
         "level": "85%",
         "keywords": ["Software Engineer"]
