@@ -163,7 +163,7 @@
         "keywords": []
       },
       {
-        "name": "Architectual Design",
+        "name": "Architectural Design",
         "level": "75%",
         "keywords": []
       },
@@ -178,19 +178,14 @@
         "keywords": ["Software Engineer"]
       },
       {
-        "name": "AWS",
-        "level": "50%",
-        "keywords": ["Cloud"]
-      },
-      {
         "name": "Troubleshooting",
         "level": "85%",
         "keywords": ["Software Engineer"]
       },
       {
-        "name": "DevOps",
-        "level": "25%",
-        "keywords": ["Software Engineer"]
+        "name": "AWS",
+        "level": "50%",
+        "keywords": ["Cloud"]
       },
       {
         "name": "PHP",
@@ -200,6 +195,11 @@
       {
         "name": "JavaScript",
         "level": "50%",
+        "keywords": ["Software Engineer"]
+      },
+      {
+        "name": "DevOps",
+        "level": "25%",
         "keywords": ["Software Engineer"]
       },
       {
